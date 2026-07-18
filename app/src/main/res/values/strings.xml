@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Stride Kicks</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Stride Kicks</string>
+    <string name="nav_header_subtitle">Step into Style</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="offers">Offers</string>
+    <string name="new_products">Latest Arrivals</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Welcome to our store</string>
+    <string name="my_carts">My Cart</string>
+</resources>
